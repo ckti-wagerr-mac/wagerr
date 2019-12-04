@@ -1,5 +1,5 @@
 ---
-name: "wagerr-win-3.1"
+name: "wagerr-win-3.0"
 enable_cache: true
 distro: "ubuntu"
 suites:
@@ -24,7 +24,7 @@ packages:
 - "python3"
 - "rename"
 remotes:
-- "url": "https://github.com/wagerr/wagerr.git"
+- "url": "https://github.com/ckti-wagerr-mac/wagerr.git"
   "dir": "wagerr"
 files: []
 script: |
